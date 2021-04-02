@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">dokumen1</string>
+    <string name="menu_1">main</string>
+    <string name="searching">searching</string>
+    <string name="nama">Nama</string>
+    <string name="email">Email</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="password">Password</string>
+    <string name="convirm_password">Convirm Password</string>
+    <string name="male">Male</string>
+    <string name="famale">Famale</string>
+    <string name="register">Register</string>
+</resources>
